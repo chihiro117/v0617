@@ -47,5 +47,10 @@ namespace v0617
             vx = 0;
             vy = 0;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
