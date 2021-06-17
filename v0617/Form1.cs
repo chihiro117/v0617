@@ -46,13 +46,7 @@ namespace v0617
 
         private void label1_Click(object sender, EventArgs e)
         {
-            vx = 0;
-            vy = 0;
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            timer1.Enabled = false;
         }
     }
 }
